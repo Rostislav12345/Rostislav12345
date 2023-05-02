@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rostislav12345
-- 👀 I’m interested in HTML and JavaScript
-- 🌱 I’m currently learning HTML,CSS, and JavaScript
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me.. idk a way
 
