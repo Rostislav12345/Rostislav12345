@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rostislav12345
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C++ and Pyton
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me.. idk a way
 
