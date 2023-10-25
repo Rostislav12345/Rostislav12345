@@ -5,4 +5,4 @@
 - 📫 reach me by (not finished yet lol)
 
 <!---
-Rostislav12345/Rostislav12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on 
+Rostislav12345/Rostislav12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on e
