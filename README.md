@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rostislav12345
-- 👀 I’m interested in Website making and Pyton
-- 🌱 I’m currently learning PHP, JS, and Python
+- 👀 I’m interested in Desktop apps
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something
 - 📫 reach me by (not finished yet lol)
 
