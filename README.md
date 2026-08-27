@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rostislav12345
 - 👀 I’m interested in REST API
-- 🌱 I’m currently Studying Advanced Python and  Web making
-- 💞️ I’m looking to collaborate on something, like a web designer because I suck at designing web pages
-- 📫 reach me by (not finished yet lol)
+- 🌱 I’m currently Studying Advanced Python and  Web Development
+- 💞️ I’m looking to collaborate on something with a web designer
 - 🌐 My work in progress personal website: www.samdoescodes.epizy.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
