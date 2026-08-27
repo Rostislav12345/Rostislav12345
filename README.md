@@ -10,8 +10,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" alt="css" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" JavaScript" width="45" height="45"/>
 </p>
 
 <!---
